@@ -2,4 +2,4 @@ import { Map } from 'immutable';
 
 const getImmutableObject = (object) => Map(object);
 
-module.exports = getImmutableObject;kdkd
+module.exports = getImmutableObject;
